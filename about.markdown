@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is my personal blog. Posts will largely contain CTF write-ups and general computer science/cybersecurity topics. I hope you enjoy
+This is my blog. It's about cybersecurity and maybe some general computer science stuff. I made it so I don't forget what I learn becuase I forget everything :)
