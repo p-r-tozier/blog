@@ -3,6 +3,7 @@ layout: post
 title:  "TryHackMe OhSINT Writeup"
 date:   2020-12-23
 author: "Me"
+permalink: "/tryhackme-ohsint-writeup/"
 ---
 
 OhSINT is a room on TryHackMe which revolves around using Open-Source Intelligence (OSINT) to find the answers to the challenges. OSINT is gathering information from publicly available sources. A large part of OSINT revovles around just being able to use Google, this means that you've probably performed a bit of OSINT before without realizing it. OSINT, however, is more than just googling as this room shows us.
